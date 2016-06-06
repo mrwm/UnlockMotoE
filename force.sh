@@ -17,4 +17,4 @@ while true; do
 function0
 done
 
-# Is the largest starting combination ""ABABABABABABABABABAB"?
+# Is the largest starting combination "ABABABABABABABABABAB"?
